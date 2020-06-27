@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Investor on My New Hugo Site</title>
+    <link>http://example.org/tags/investor/</link>
+    <description>Recent content in Investor on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jun 2020 15:57:48 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/investor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>17 ideas you can steal from tractor supply companies</title>
+      <link>http://example.org/posts/post-10/</link>
+      <pubDate>Fri, 26 Jun 2020 15:57:48 +0530</pubDate>
+      
+      <guid>http://example.org/posts/post-10/</guid>
+      <description>14 facts about secret sales that&amp;rsquo;ll keep you up at night. 13 ways insurance companies can find you the love of your life. Why the next 10 years of businesses will smash the last 10. 9 podcasts about mutual funds. How not knowing business schools makes you a rookie. The 20 best business school twitter feeds to follow. How franchises made me a better person. Unbelievable secret sale success stories. An expert interview about business managers.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jun 2020 10:50:43 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>http://example.org/tags/about/</link>
+      <pubDate>Sat, 27 Jun 2020 10:50:43 +0530</pubDate>
+      
+      <guid>http://example.org/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baseball</title>
+      <link>http://example.org/tags/baseball/</link>
+      <pubDate>Sat, 27 Jun 2020 07:29:11 +0530</pubDate>
+      
+      <guid>http://example.org/tags/baseball/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>http://example.org/tags/sports/</link>
+      <pubDate>Sat, 27 Jun 2020 07:29:11 +0530</pubDate>
+      
+      <guid>http://example.org/tags/sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investor</title>
+      <link>http://example.org/tags/investor/</link>
+      <pubDate>Fri, 26 Jun 2020 15:57:48 +0530</pubDate>
+      
+      <guid>http://example.org/tags/investor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startup</title>
+      <link>http://example.org/tags/startup/</link>
+      <pubDate>Fri, 26 Jun 2020 15:57:43 +0530</pubDate>
+      
+      <guid>http://example.org/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>http://example.org/tags/business/</link>
+      <pubDate>Fri, 26 Jun 2020 15:57:38 +0530</pubDate>
+      
+      <guid>http://example.org/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fund</title>
+      <link>http://example.org/tags/fund/</link>
+      <pubDate>Fri, 26 Jun 2020 15:57:38 +0530</pubDate>
+      
+      <guid>http://example.org/tags/fund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sales</title>
+      <link>http://example.org/tags/sales/</link>
+      <pubDate>Fri, 26 Jun 2020 15:57:31 +0530</pubDate>
+      
+      <guid>http://example.org/tags/sales/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

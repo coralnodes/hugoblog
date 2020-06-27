@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Startup on My New Hugo Site</title>
+    <link>http://example.org/tags/startup/</link>
+    <description>Recent content in Startup on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jun 2020 15:57:43 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20 myths uncovered about financial reports</title>
+      <link>http://example.org/posts/post-9/</link>
+      <pubDate>Fri, 26 Jun 2020 15:57:43 +0530</pubDate>
+      
+      <guid>http://example.org/posts/post-9/</guid>
+      <description>How twitter can teach you about personal finances. How personal finances are making the world a better place. An expert interview about business managers. Why our world would end if business schools disappeared. Why businesses beat peanut butter on pancakes. Expose: you&amp;rsquo;re losing money by not using famous entrepreneurs. How business schools can help you predict the future. 13 things that won&amp;rsquo;t happen in mutual funds. 5 ways entrepreneurs could leave you needing a lawyer.</description>
+    </item>
+    
+    <item>
+      <title>An expert interview about business analysts</title>
+      <link>http://example.org/posts/post-4/</link>
+      <pubDate>Fri, 26 Jun 2020 15:57:15 +0530</pubDate>
+      
+      <guid>http://example.org/posts/post-4/</guid>
+      <description>20 great articles about stockcharts. 13 amazing business school pictures. 5 ways entrepreneurs can make you rich. 8 insane (but true) things about business plan templates. The 6 best secret sale twitter feeds to follow. How twitter can teach you about business schools. How to cheat at good interview questions and get away with it. 5 least favorite businesses. What experts are saying about small business loans. Why businesses are the new black.</description>
+    </item>
+    
+  </channel>
+</rss>

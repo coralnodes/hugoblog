@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2020-06-27T10:50:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/about/</loc>
+    <lastmod>2020-06-27T10:50:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-06-27T10:50:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-06-27T10:50:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/baseball/</loc>
+    <lastmod>2020-06-27T07:29:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2020-06-27T07:29:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/sports/</loc>
+    <lastmod>2020-06-27T07:29:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/welcome/</loc>
+    <lastmod>2020-06-27T07:29:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-10/</loc>
+    <lastmod>2020-06-26T15:57:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/investor/</loc>
+    <lastmod>2020-06-26T15:57:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-9/</loc>
+    <lastmod>2020-06-26T15:57:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/startup/</loc>
+    <lastmod>2020-06-26T15:57:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/business/</loc>
+    <lastmod>2020-06-26T15:57:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/fund/</loc>
+    <lastmod>2020-06-26T15:57:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-8/</loc>
+    <lastmod>2020-06-26T15:57:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-7/</loc>
+    <lastmod>2020-06-26T15:57:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/sales/</loc>
+    <lastmod>2020-06-26T15:57:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-6/</loc>
+    <lastmod>2020-06-26T15:57:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-5/</loc>
+    <lastmod>2020-06-26T15:57:20+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-4/</loc>
+    <lastmod>2020-06-26T15:57:15+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-3/</loc>
+    <lastmod>2020-06-26T15:57:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-2/</loc>
+    <lastmod>2020-06-26T15:56:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+</urlset>

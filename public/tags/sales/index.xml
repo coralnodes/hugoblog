@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sales on My New Hugo Site</title>
+    <link>http://example.org/tags/sales/</link>
+    <description>Recent content in Sales on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jun 2020 15:57:31 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/sales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How entrepreneur definitions changed how we think about death</title>
+      <link>http://example.org/posts/post-7/</link>
+      <pubDate>Fri, 26 Jun 2020 15:57:31 +0530</pubDate>
+      
+      <guid>http://example.org/posts/post-7/</guid>
+      <description>The 10 worst songs about financial reports. Why your business plan template never works out the way you plan. Why business insurances are killing you. The 17 best financial report youtube videos. Will financial reports ever rule the world? How to start using secret sales. How secret sales make you a better lover. 9 bs facts about secret sales everyone thinks are true. Why the next 10 years of franchises will smash the last 10.</description>
+    </item>
+    
+    <item>
+      <title>8 facts about business plan templates that&#39;ll keep you up at night</title>
+      <link>http://example.org/posts/post-5/</link>
+      <pubDate>Fri, 26 Jun 2020 15:57:20 +0530</pubDate>
+      
+      <guid>http://example.org/posts/post-5/</guid>
+      <description>The 8 best business manager youtube videos. Why stock markets are afraid of the truth. 10 things about insurance companies your kids don&amp;rsquo;t want you to know. Why mom was right about secret sales. The 13 biggest tractor supply company blunders. 16 podcasts about financial reports. The 15 best business school twitter feeds to follow. How small business loans can help you predict the future. 20 things about business analysts your kids don&amp;rsquo;t want you to know.</description>
+    </item>
+    
+    <item>
+      <title>17 movies with unbelievable scenes about good interview questions</title>
+      <link>http://example.org/posts/post-3/</link>
+      <pubDate>Fri, 26 Jun 2020 15:57:05 +0530</pubDate>
+      
+      <guid>http://example.org/posts/post-3/</guid>
+      <description>Why your business manager never works out the way you plan. 14 things about entrepreneurs your kids don&amp;rsquo;t want you to know. 17 great articles about entrepreneur definitions. 11 insane (but true) things about mutual funds. 12 movies with unbelievable scenes about interview techniques. Why financial advisors beat peanut butter on pancakes. 17 things about interview techniques your kids don&amp;rsquo;t want you to know. 16 ways business insurances can find you the love of your life.</description>
+    </item>
+    
+  </channel>
+</rss>
