@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://cntest.website/"
 languageCode = "en-us"
 title = "My Hugo Site"
 paginate = 3
